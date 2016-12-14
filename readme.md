@@ -12,7 +12,7 @@ This package allows us to port our routes over to JavaScript, and gives us a bun
 
 Install the usual [composer](https://getcomposer.org/) way.
 
-###### package.json
+###### composer.json
 ```json
 {
 	"require" : {
@@ -20,7 +20,7 @@ Install the usual [composer](https://getcomposer.org/) way.
 	}
 }
 ```
-
+and composer update
 n.b Laravel 4.x users, check out [version 1.3.2](https://github.com/aaronlord/laroute/tree/v1.3.2)
 
 ###### app/config/app.php
